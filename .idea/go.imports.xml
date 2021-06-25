@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoImports">
+    <option name="excludedPackages">
+      <array>
+        <option value="begeek_bot_golang_11 (2)/logger" />
+      </array>
+    </option>
+  </component>
+</project>
